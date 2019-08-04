@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ManitNav</string>
+    <string-array name="planets_array">
+        <item>TB-111</item>
+        <item>TB-222</item>
+        <item>TB-333</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="long_scentence">This will be configured to show directions but need internet next button will take to another layout if there is a buiding</string>
+</resources>
